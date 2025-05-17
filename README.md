@@ -9,13 +9,13 @@
 
 <p align="left"> <a href="https://twitter.com/i_ramkishore" target="blank"><img src="https://img.shields.io/twitter/follow/i_ramkishore?logo=twitter&style=for-the-badge" alt="i_ramkishore" /></a> </p>
 
-- 🔭 I’m currently working on **StopNSFW**
+- 🔭 I’m currently working on **Personal Agent**
 
 - 🌱 I’m currently learning **Machine learning & Deep Learning in Python & R**
 
 - 📝 I regularly write articles on [https://www.anonhacks.net](https://www.anonhacks.net)
 
-- 💬 Ask me about **Android, Hacking**
+- 💬 Ask me about **Data, Bug bounty**
 
 - 📫 How to reach me **ramkishoresakamuri7@gmail.com**
 
