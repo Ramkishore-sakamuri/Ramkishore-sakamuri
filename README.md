@@ -1,4 +1,4 @@
-![MasterHead](https://images.app.goo.gl/1sXFCSAF5aawzyPf7)
+![MasterHead](https://www.blogger.com/blog/post/edit/2234545775541833373/952147473453814248)
 (https://hugbunter.com)
 
 <h1 align="center">Hi 👋, I'm Ramkishore Sakamuri</h1>
