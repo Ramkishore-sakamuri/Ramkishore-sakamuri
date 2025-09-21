@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_ramkishore" target="blank"><img src="https://img.shields.io/twitter/follow/i_ramkishore?logo=twitter&style=for-the-badge" alt="i_ramkishore" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Agent**
+- 🔭 I’m currently working on **NibblrX** a nutrition based social media platform
 
 - 🌱 I’m currently learning **Machine learning & Deep Learning in Python & R**
 
